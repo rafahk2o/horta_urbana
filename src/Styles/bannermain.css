@@ -1,0 +1,50 @@
+.banner-principal{
+    width: 100%;
+    height: 17.9rem;
+    background: #000;
+    position: relative;
+    display: flex;
+    justify-content:center
+}
+
+.banner-principal img{
+    opacity: 0.6;
+     display: flex;
+    justify-content: center;
+}
+
+.box-text {
+position: absolute;
+top: 1rem;
+color: #fff;
+width: 15rem;
+font-size: 1.5rem;
+}
+
+.btn-banner{
+    align-items: center;
+  background-color: #099c2e;
+  border: 2px solid #099c26;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 1.5rem;
+}

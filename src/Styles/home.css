@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* Configuração para Smartphone */
+@media (min-width: 50px) and (max-width: 450px) {
+    body {
+    background: #F3FCF7;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Configuração para Tablet */
+@media (min-width: 451px) and (max-width: 1024px) {
+    body {
+        background: rgb(0, 255, 55);
+    }
+}
+
+
+/* Configuração para Notebook */
+@media (min-width: 1025px) and (max-width: 1280px) {
+    body {
+        background: rgb(214, 0, 132);
+    }
+}
+
+/* Configuração para Desktop */
+@media (min-width: 1281px) {
+    body {
+        background: none;
+    }
+}
