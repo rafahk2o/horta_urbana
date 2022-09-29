@@ -1,0 +1,115 @@
+* {
+  /* background: red */
+}
+
+.card-geral{
+  width: 100%;
+  height: 100vh;
+  
+ 
+}
+.cards-principal1 {
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+  margin-bottom: 2rem;
+ 
+}
+.cards-principal2 {
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+  
+ 
+}
+
+.card1 { 
+  width: 10rem;
+  height: 15rem;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.card1 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+.card2 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+.card3 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+.card4 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+
+.footer-card1 {
+  width: 100%;
+  height: 7rem;
+  border-radius: 0 0 1rem 1rem;
+  background: green;
+}
+.card2 {
+  width: 10rem;
+  height: 15rem;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+}
+
+.footer-card2 {
+  width: 100%;
+  height: 7rem;
+  border-radius: 0 0 1rem 1rem;
+  background: green;
+}
+.card3 {
+  width: 10rem;
+  height: 15rem;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.footer-card3 {
+  width: 100%;
+  height: 7rem;
+  border-radius: 0 0 1rem 1rem;
+  background: green;
+}
+.card4 {
+  width: 10rem;
+  height: 15rem;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.footer-card4 {
+  width: 100%;
+  height: 7rem;
+  border-radius: 0 0 1rem 1rem;
+  background: green;
+}
