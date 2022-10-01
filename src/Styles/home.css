@@ -25,6 +25,7 @@
   .whats-logo.fixed {
     position: fixed;
     bottom: 0.2rem;
+    right: 0.7rem;
   }
 }
 
