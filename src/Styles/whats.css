@@ -1,0 +1,10 @@
+.whats-logo{
+    width: 100%;
+    height: 20vh;
+    
+}
+
+.whats-logo img{
+    width: 25%;
+    position: sticky;
+}

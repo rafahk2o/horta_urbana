@@ -20,8 +20,22 @@
   width: 100%;
   display: flex;
   justify-content:space-around;
-  
+}
+
+
+.cards-principal3 {
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+  margin-bottom: 2rem;
  
+}
+
+.cards-principal3 {
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
 }
 
 .card1 { 
@@ -40,19 +54,60 @@ position: absolute;
 top: 1rem;
 right: 0rem;
 }
-.card2 img{
+.card5 { 
+  width: 10rem;
+  height: 15rem;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.card5 img{
 width: 100%;
 position: absolute;
 top: 1rem;
 right: 0rem;
 }
+.card1 { 
+  width: 10rem;
+  height: 15rem;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+
+.card6 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+
+.card6 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+
 .card3 img{
 width: 100%;
 position: absolute;
 top: 1rem;
 right: 0rem;
 }
+
 .card4 img{
+width: 100%;
+position: absolute;
+top: 1rem;
+right: 0rem;
+}
+.card2 img{
 width: 100%;
 position: absolute;
 top: 1rem;
@@ -60,6 +115,18 @@ right: 0rem;
 }
 
 .footer-card1 {
+  width: 100%;
+  height: 7rem;
+  border-radius: 0 0 1rem 1rem;
+  background: #14a76c;
+}
+.footer-card5 {
+  width: 100%;
+  height: 7rem;
+  border-radius: 0 0 1rem 1rem;
+  background: #14a76c;
+}
+.footer-card6 {
   width: 100%;
   height: 7rem;
   border-radius: 0 0 1rem 1rem;
@@ -81,6 +148,7 @@ right: 0rem;
   border-radius: 0 0 1rem 1rem;
   background: #14a76c;
 }
+
 .card3 {
   width: 10rem;
   height: 15rem;
@@ -112,4 +180,21 @@ right: 0rem;
   height: 7rem;
   border-radius: 0 0 1rem 1rem;
   background: #14a76c;
+}
+
+.footer-card1 p{
+  color: #fff;
+  margin-top: 2rem;
+  font-weight: 700;
+}
+
+.footer-card1 button{
+  width: 6.5rem;
+  height: 2rem;
+  border: none;
+  background: #fff;
+  margin-top: 1rem;
+  color: #14a76c;
+  cursor: pointer;
+
 }
