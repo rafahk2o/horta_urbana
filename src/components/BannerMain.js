@@ -7,7 +7,7 @@ export default function BannerMain() {
     <div className="banner-principal">
         <img src={BannermainImg} alt="" />
       <div className="box-text">
-        <h2>Hotaliças frescas todos os dias</h2>
+        <h2>Hortaliças frescas todos os dias</h2>
         <button className="btn-banner">Veja mais produtos</button>
       </div>
     </div>
